@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "anigraph": ["./src/anigraph"],
+      "anigraph/*": ["./src/anigraph/*"]
+    }
+  }
+}

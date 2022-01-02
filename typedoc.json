@@ -1,0 +1,14 @@
+{
+  "entryPoints": [
+    "./src/anigraph/index.ts"
+  ],
+  "out": "docs",
+  "exclude": [
+    "node_modules",
+    "Assignment1",
+    "src/Assignment1",
+    "src/Assignment1Solution",
+    "src/ExampleApps",
+    "src/tests"
+  ]
+}
